@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="art_flower_still_life_with_a_timepiece">Art_flower_still_life_with_a_timepiece</string>
+    <string name="flower_still_life_with_a_timepiece">Flower Still Life with a Timepiece</string>
+    <string name="willem_van_aelst">"Willem van Aelst"</string>
+    <string name="bouquet_of_flowers_with_a_butterfly_in_high_resolution">Bouquet of Flowers with a Butterfly in high resolution</string>
+    <string name="william_van_leen">William van Leen</string>
+    <string name="rosa_hemisphaerica">Rosa hemisphaerica </string>
+    <string name="pierre_joseph_redout">Pierre-Joseph Redouté</string>
+</resources>
